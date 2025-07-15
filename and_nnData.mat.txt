@@ -1,0 +1,375 @@
+# Created by Octave 3.6.4, Tue Mar 31 20:09:54 2015 Hora estándar de Argentina <unknown@DGT9-PC>
+# name: nnData
+# type: global scalar struct
+# ndims: 2
+ 1 1
+# length: 11
+# name: Files
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 6
+# name: StructIni
+# type: sq_string
+# elements: 1
+# length: 17
+and_Structure.ini
+
+
+# name: ioInputTrain
+# type: sq_string
+# elements: 1
+# length: 20
+and_ioInputTrain.txt
+
+
+# name: ioInputTest
+# type: sq_string
+# elements: 1
+# length: 19
+and_ioInputTest.txt
+
+
+# name: ioIdealTrain
+# type: sq_string
+# elements: 1
+# length: 20
+and_ioIdealTrain.txt
+
+
+# name: ioIdealTest
+# type: sq_string
+# elements: 1
+# length: 19
+and_ioIdealTest.txt
+
+
+# name: nnData
+# type: sq_string
+# elements: 1
+# length: 14
+and_nnData.mat
+
+
+
+
+# name: Structure
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 5
+# name: layerNumber
+# type: matrix
+# rows: 3
+# columns: 1
+ 0
+ 1
+ 2
+
+
+# name: layerNeurons
+# type: matrix
+# rows: 3
+# columns: 1
+ 2
+ 2
+ 1
+
+
+# name: layerActivation
+# type: cell
+# rows: 3
+# columns: 1
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 4
+none
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 8
+logistic
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 8
+logistic
+
+
+
+
+
+# name: FIR_FB
+# type: matrix
+# rows: 3
+# columns: 1
+ 0
+ NaN
+ 0
+
+
+# name: fileNames
+# type: cell
+# rows: 2
+# columns: 1
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 8
+AND(2/1)
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 0
+
+
+
+
+
+
+
+# name: layersTotal
+# type: scalar
+3
+
+
+# name: Neurons
+# type: cell
+# rows: 1
+# columns: 3
+# name: <cell-element>
+# type: matrix
+# rows: 3
+# columns: 2
+ 1 1
+ 0 1.019024536657419
+ 0 1.03002168576452
+
+
+
+# name: <cell-element>
+# type: matrix
+# rows: 3
+# columns: 2
+ 1 1
+ -4.937964943701837 0.007118142015043079
+ -4.972109170625696 0.006880845116268197
+
+
+
+# name: <cell-element>
+# type: matrix
+# rows: 2
+# columns: 2
+ 1 1
+ 4.005737789670259 0.9821148551387766
+
+
+
+
+
+# name: Weights
+# type: cell
+# rows: 1
+# columns: 3
+# name: <cell-element>
+# type: scalar
+0
+
+
+
+# name: <cell-element>
+# type: matrix
+# rows: 2
+# columns: 3
+ 1.149049711053537 -1.236195085118766 -4.686992779999271
+ 3.430036869482395 -5.310827785503816 -2.903654746861571
+
+
+
+# name: <cell-element>
+# type: matrix
+# rows: 1
+# columns: 3
+ 4.105247200558493 -5.74911643696159 -8.049671172688585
+
+
+
+
+
+# name: Deltas
+# type: cell
+# rows: 1
+# columns: 3
+# name: <cell-element>
+# type: matrix
+# rows: 2
+# columns: 1
+ 0
+ 0
+
+
+
+# name: <cell-element>
+# type: matrix
+# rows: 3
+# columns: 1
+ 0
+ -0.0005196867201906968
+ -0.0007035533564613022
+
+
+
+# name: <cell-element>
+# type: matrix
+# rows: 2
+# columns: 1
+ 0
+ 0.01279011860068544
+
+
+
+
+
+# name: Epochs
+# type: scalar
+100
+
+
+# name: PredictionError
+# type: matrix
+# rows: 100
+# columns: 1
+ 0.6012102684354743
+ 0.5188809698374846
+ 0.4943936933629902
+ 0.4820593158709001
+ 0.4722501315160151
+ 0.4620830241044152
+ 0.4504310655784147
+ 0.4370476763509537
+ 0.422369285597016
+ 0.4071957691377539
+ 0.3922171368391044
+ 0.3778674064070714
+ 0.3644643529721592
+ 0.3522429582030149
+ 0.3413086493256015
+ 0.3316412769447486
+ 0.3231405439932223
+ 0.3156713029932107
+ 0.309093117735693
+ 0.3032753001262137
+ 0.2981026306628147
+ 0.2934761396392285
+ 0.2893116953734744
+ 0.2855378804913035
+ 0.2820938657860354
+ 0.2789275847004848
+ 0.2759943266446314
+ 0.2732557962281219
+ 0.2706796494660714
+ 0.268239453421319
+ 0.2659148768386818
+ 0.2636917210132347
+ 0.2615612839104572
+ 0.2595187546701143
+ 0.2575609294597677
+ 0.2556841271111076
+ 0.2538831597553529
+ 0.2521515268017315
+ 0.2504823025655871
+ 0.2488690362651804
+ 0.2473062864337823
+ 0.2457897635164371
+ 0.2443162244619561
+ 0.2428832692678996
+ 0.2414891314350294
+ 0.2401324995494896
+ 0.238812376078701
+ 0.237527967983663
+ 0.2362786025688654
+ 0.2350636640895373
+ 0.2338825485024789
+ 0.2327346343808339
+ 0.2316192676955221
+ 0.2305357575554705
+ 0.2294833796254042
+ 0.2284613840276779
+ 0.2274690050384339
+ 0.2265054706232106
+ 0.2255700106220811
+ 0.2246618630460111
+ 0.2237802784178039
+ 0.2229245223787292
+ 0.2220938769179851
+ 0.2212876406116384
+ 0.2205051282234012
+ 0.2197456699548489
+ 0.2190086105599371
+ 0.21829330847098
+ 0.217599135026817
+ 0.2169254738504559
+ 0.2162717203923199
+ 0.2156372816344348
+ 0.2150215759382375
+ 0.2144240330120547
+ 0.2138440939718773
+ 0.2132812114694092
+ 0.2127348498634311
+ 0.2122044854134986
+ 0.2116896064783638
+ 0.2111897137049166
+ 0.2107043201966593
+ 0.2102329516536381
+ 0.2097751464782969
+ 0.2093304558438659
+ 0.2088984437236818
+ 0.208478686881256
+ 0.208070774822027
+ 0.2076743097085733
+ 0.2072889062416675
+ 0.206914191509967
+ 0.2065498048113841
+ 0.2061953974493035
+ 0.2058506325068295
+ 0.205515184602189
+ 0.2051887396282985
+ 0.2048709944793414
+ 0.2045616567670186
+ 0.2042604445289238
+ 0.2039670859312898
+ 0.2036813189681288
+
+
+# name: FilesBase
+# type: sq_string
+# elements: 1
+# length: 3
+and
+
+
+# name: Copyright
+# type: sq_string
+# elements: 1
+# length: 43
+Copyright (C) 2014 Alejandro Quiroga Alsina
+
+
+# name: LocalizationCredits
+# type: sq_string
+# elements: 2
+# length: 43
+Spanish (es-AR) by Alejandro Quiroga Alsina
+# length: 43
+English (en-US) by Alejandro Quiroga Alsina
+
+
+
+

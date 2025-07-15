@@ -1,0 +1,28 @@
+------------------------------------------------------------------
+- nn22 - Basic Didactic Neural Networks for Octave (or Maltlab) --
+Contains GNU Octave (or Matlab) scripts & functions built by
+Alejandro Quiroga Alsina for Dr. Eng. Daniel Patino's  MSc and PhD
+courses at INAUT, Universidad Nacional de San Juan, Argentina.
+------------------------------------------------------------------
+
+Copyright (C) 2014 Alejandro Quiroga Alsina
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program.  If not, see <http://www.gnu.org/licenses/>.
+The file containing the GNU GPL text should be called COPYING.txt.
+
+Contact info:
+Alejandro Quiroga Alsina
+- aqasoft-nn22@yahoo.com.ar (regarding this project specifically)
+- ar.linkedin.com/in/alejandroquirogaalsina
+- twitter.com/sanjuanino 
